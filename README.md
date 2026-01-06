@@ -32,4 +32,10 @@ The goal is to:
 - Accommodates, property type, room type, city, and bathrooms are among the most important predictors
 - Linear regression provides interpretability but underfits nonlinear patterns
 
-## Repository Structure
+## Tools
+- R
+- tidyverse
+- caret
+- randomForest
+- GGally
+- doParallel
