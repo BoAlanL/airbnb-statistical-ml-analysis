@@ -39,3 +39,12 @@ The goal is to:
 - randomForest
 - GGally
 - doParallel
+
+- ## Data
+The dataset used in this project is too large to be hosted on GitHub.
+
+To reproduce the analysis:
+1. Obtain the Airbnb dataset from the kaggle
+2. Place the file in the `data/` directory
+3. Rename it to `Airbnb_Data.csv`
+
